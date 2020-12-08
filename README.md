@@ -1,17 +1,20 @@
-### Hi there 👋
+### Sunwoo's Github 👋
 
 <!--
 **mallang7/mallang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
-:school: Ewha Womans' Univ. Computer Science&Engineering
+
+- 🔭 I’m currently studying at Ewha Womans' Univ. Computer Science&Engineering
+- 🌱 I’m currently learning Data Analyst, Machine Learning and Deep Learning
+- 😄 Blog : https://sunwoo-725.tistory.com/
+- 💬 Ask me about anything
