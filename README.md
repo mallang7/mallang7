@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying at Ewha Womans' Univ. Computer Science&Engineering
-- 🌱 I’m currently learning React JS, Recommender System, Machine Learning and Deep Learning
+- 🌱 I’m currently learning React, Recommender System, Machine Learning and Deep Learning
 <!-- - 😄 Blog : https://sunwoo-725.tistory.com/ -->
 - 💬 Ask me about anything
